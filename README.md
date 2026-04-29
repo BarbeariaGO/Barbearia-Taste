@@ -57,7 +57,6 @@ Acesse: http://localhost:3000
 
 | Email | Senha | Role |
 |---|---|---|
-| `ivanoff.victorsimion@gmail.com` | `12345678` | admin |
 | `admin@barbearia.com` | `admin123` | admin (seed legado — remova em produção) |
 
 > **IMPORTANTE em produção:** remova o admin seed `admin@barbearia.com` rodando:
